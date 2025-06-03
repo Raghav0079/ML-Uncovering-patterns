@@ -64,10 +64,50 @@ These datasets enable thorough exploration into content trends, channel performa
 ### Prerequisites
 
 Make sure you have [Python 3.x](https://www.python.org/downloads/) installed on your system. It is also recommended to use a virtual environment.
+## Project Structure
 
-### Clone the Repository
+Unsupervised-ML-/
+│
+├── GBvideos.csv                # Raw dataset: YouTube trending videos in Great Britain
+├── compressed_data.csv.gz      # Compressed/preprocessed dataset for optimized handling
+├── unsupervised ml.ipynb       # Jupyter Notebook containing the full analysis workflow
+├── requirements.txt            # List of Python dependencies
+└── README.md                   # Project documentation
 
-Open your terminal and run:
-```bash
-git clone https://github.com/Raghav0079/Unsupervised-ML-.git
-cd Unsupervised-ML-
+## Features
+
+- Comprehensive Data Cleaning:
+Detailed preprocessing steps to ensure high-quality input for clustering.
+- Robust Clustering:
+Implementation of K-Means along with techniques for optimal cluster identification (Elbow Method, Silhouette Analysis).
+- Advanced Visualization:
+Visual insights using various plots and the potential for interactive exploration, which may include dimensionality reduction techniques like PCA and t-SNE.
+- Reproducible Pipeline:
+Easy-to-follow code and documentation, making it simple for others to reproduce and extend the analysis.
+
+## Dependencies
+The project relies on the following libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- jupyter
+These are listed in the requirements.txt for easy installation.
+
+## Configuration
+Any project-specific configurations (e.g., file paths, analysis parameters) are defined within the notebook. For extended use, consider adding a configuration file or environment variables to manage these settings more robustly.
+
+## Documentation
+All major steps and concepts are documented within unsupervised ml.ipynb using inline markdown cells. The notebook covers:
+- Data exploration and preprocessing techniques
+- Detailed code for clustering analysis
+- Visualization and performance diagnostics
+- Commentary on insights and further exploratory ideas
+This thorough documentation ensures that readers can understand each step of the workflow and its purpose
+
+## Contributors
+- Raghav: Primary architect of the project, responsible for guiding the overall design and implementation.
+- Additional contributors and community members are welcome to propose enhancements, report bugs, or suggest features.
+Feel free to submit Pull Requests or open an Issue on GitHub.
+

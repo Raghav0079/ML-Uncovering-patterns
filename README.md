@@ -16,8 +16,6 @@
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
 - [Documentation](#documentation)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -111,3 +109,5 @@ This thorough documentation ensures that readers can understand each step of the
 - Additional contributors and community members are welcome to propose enhancements, report bugs, or suggest features.
 Feel free to submit Pull Requests or open an Issue on GitHub.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details

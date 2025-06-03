@@ -62,6 +62,15 @@ These datasets enable thorough exploration into content trends, channel performa
 ### Prerequisites
 
 Make sure you have [Python 3.x](https://www.python.org/downloads/) installed on your system. It is also recommended to use a virtual environment.
+
+## Usage
+The core analysis is provided in the Jupyter Notebook unsupervised ml.ipynb. Follow these steps:
+- Launch Jupyter Notebook:
+jupyter notebook
+- Open unsupervised ml.ipynb in your browser.
+- Follow the inline instructions, where you'll learn how the dataset is preprocessed, clustered, and visualized.
+Tip: Experiment with different numbers of clusters or visualization techniques (e.g., PCA, t-SNE, interactive plots using Plotly) to further explore the data.
+
 ## Project Structure
 
 Unsupervised-ML-/

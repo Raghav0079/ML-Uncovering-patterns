@@ -1,4 +1,4 @@
-# Unsupervised-ML: Uncovering Hidden Patterns in YouTube Trending Videos
+# ML: Uncovering Hidden Patterns in YouTube Trending Videos
 
 **Unsupervised-ML** is a data science project that dives deep into unsupervised machine learning techniques—specifically clustering—using real-world YouTube video data. This project walks you through the entire machine learning workflow, from cleaning and preprocessing raw data to applying K-Means clustering, and finally visualizing insights that reveal hidden patterns in media content.
 

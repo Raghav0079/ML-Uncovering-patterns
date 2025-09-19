@@ -1,11 +1,3 @@
-- Launch Jupyter Notebook:
-  
-  ```bash
-  jupyter notebook
-  ```
-  
-
-
 
 # ML: Uncovering Hidden Patterns in YouTube Trending Videos
 

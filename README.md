@@ -9,21 +9,12 @@
 
 # ML: Uncovering Hidden Patterns in YouTube Trending Videos
 
-- Launch Jupyter Notebook:
   
-
-- Launch Jupyter Notebook:
-  
-  ```bash
-  jupyter notebook
-  ```
-
 - Launch Jupyter Notebook:
   
   ```bash
   jupyter notebook
   ```
-  
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
